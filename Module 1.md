@@ -1,4 +1,4 @@
-# Module 1: Open Source for Big Ideas
+# Module 1: Open Source to Solve Big Problems
 
 ## Launch
 
@@ -14,10 +14,14 @@
 Git and GitHub Resources
 Introduction to Git that isn’t that technical (ideas from Bartek)
 
+## Design Challenge
 
+Challenge 1: Take a photo of a "friction moment"--how a social problem (literacy, lack of transportation, health care issues) comes up in your community.
 
-## Design Challenge:
+Challenge 2: Find and share a resource (blog post, podcast, newspaper article, wikipedia entry) on that social problem. Share a bit about how open source technology might be able to solve that problem (or why previous attempts have not been successful).
 
-Challenge 1: Take a photo of a "money moment"--any time you encounter friction, frustration, delays or disappointment because of the way money moves in your community.
+Challenge 3: Download, print and play "Make Change": a game to help you brainstorm ideas for your (first?) project using open source software.
 
-Challenge 2:
+Challenge 4:
+
+## Document
