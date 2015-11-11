@@ -13,10 +13,9 @@
 
 
 ### Technical Resources:
-* (Git Cheat Sheet)
-[https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf]
+* [Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
 * Introduction to Git that isn’t that technical (ideas from Bartek)
-* (Markdown Basics)[https://help.github.com/articles/markdown-basics/]
+* [Markdown Basics](https://help.github.com/articles/markdown-basics/)
 
 ## Design Challenge
 
