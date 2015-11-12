@@ -10,7 +10,15 @@
 
 
 ### Topical Resources:
+#### Why does open source matter?
+"Open Source Software is wonderful because it allows programmers and coders to coalesce around a platform like GitHub to build killer software, applications and programs for mass market use.""
+http://www.informit.com/blogs/blog.aspx?uk=Why-Open-Source-Matters-Musings-from-OSCON
 
+#### How does open source solve problems?
+* [Mommy Connect](http://www.health.gov.za/index.php/mom-connect)
+* [Sahana Software Foundation](http://sahanafoundation.org/)
+* [Ushahidi](https://www.ushahidi.com/about)
+* ["All Our Patent Are Belong To You"](http://www.teslamotors.com/blog/all-our-patent-are-belong-you)
 
 ### Technical Resources:
 * [Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
