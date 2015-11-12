@@ -4,7 +4,7 @@
 
 * Why did you sign up for this course? What do you want to accomplish here?
 * What social issues are you concerned about in your community? Share a bit about your experience.
-* What does "Open Source" mean to you? What is your experience with it?
+* What does "open source" mean to you? What is your experience with it?
 
 ## Research: How does open source solve big problems?
 
@@ -17,11 +17,13 @@ http://www.informit.com/blogs/blog.aspx?uk=Why-Open-Source-Matters-Musings-from-
 "Why is openness important in hardware? "Because open hardware platforms become the platform where people start to develop their own products," Banzi told Ars."
 -Massimo Banzi, ["Arduino creator explains why open source matters in hardware, too"](http://arstechnica.com/information-technology/2013/10/arduino-creator-explains-why-open-source-matters-in-hardware-too/)
 
+Empowering users to drive economic growth and opportunity: https://www.youtube.com/watch?v=jBxwFJUyybw
+
 #### How does open source solve problems?
-* Affordability: [Mommy Connect](http://www.health.gov.za/index.php/mom-connect)
-* Localization: [Sahana Software Foundation](http://sahanafoundation.org/)
-* Scale: [Ushahidi](https://www.ushahidi.com/about)
-* Innovation: ["All Our Patent Are Belong To You"](http://www.teslamotors.com/blog/all-our-patent-are-belong-you)
+* You can make products affordably: [Mommy Connect](http://www.health.gov.za/index.php/mom-connect)
+* You can adapt it for your community: [Sahana Software Foundation](http://sahanafoundation.org/)
+* You can access the power of many minds: [Ushahidi](https://www.ushahidi.com/about)
+* You can work on something bigger than yourself: ["All Our Patent Are Belong To You"](http://www.teslamotors.com/blog/all-our-patent-are-belong-you)
 
 ### Technical Resources:
 * [Git Cheat Sheet](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
